@@ -62,4 +62,3 @@ public class UsernameChecker {
         System.out.println("Most attempted: " +
                 checker.getMostAttempted());
     }
-}
